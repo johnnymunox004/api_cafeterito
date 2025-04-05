@@ -1,8 +1,6 @@
 
 
 
-
-
 # pip install fastapi uvicorn python-multipart pydantic matplotlib tensorflow numpy opencv-python openai
 
 # python app.py
